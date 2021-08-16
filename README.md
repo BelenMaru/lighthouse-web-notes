@@ -2,4 +2,4 @@
 
 ## Summary
 
-This repository contains all of the notes taken by Belen for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by Belen (https://github.com/BelenMaru) for the Lighthouse Labs Web Development Bootcamp.
